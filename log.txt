@@ -1,0 +1,4 @@
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'SHAPE.STLength()' to 'SHAPE.STLe'
+Warning 6: Normalized/laundered field name: 'NUMERIC_RANGE' to 'NUMERIC_RA'
+Warning 6: Normalized/laundered field name: 'SHAPE.STArea()' to 'SHAPE.STAr'
